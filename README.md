@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **muehlstaedtmoritz@gmail.com**
 
-- ⚡ Fun fact **My friends say, I´m a very mexican German 🌮🌵**
+- ⚡ Fun fact: **My friends say, I´m a very mexican German 🌮🌵**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
