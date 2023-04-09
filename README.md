@@ -1,5 +1,7 @@
 # 💫 About Me:
-- 🌱 I’m currently learning **TensorFlow**<br><br>- 💬 Ask me about **React & Javascript**<br><br>- 📫 How to reach me **momue.dev@gmail.com**
+- 🌱 I’m currently learning **TensorFlow**<br><br>
+- 💬 Ask me about **React & Javascript**<br><br>
+- 📫 How to reach me **momue.dev@gmail.com**
 
 
 ## 🌐 Socials:
