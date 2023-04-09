@@ -10,4 +10,3 @@
 # 📊 GitHub Stats:
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=momueh&theme=radical&hide_border=true)<br/>
-username=momueh&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
