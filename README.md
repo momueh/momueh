@@ -1,5 +1,5 @@
 # 💫 About Me:
-- 🌱 I’m currently learning **Go** & <br><br>
+- 🌱 I’m currently learning **Go** <br><br>
 - 💬 Ask me about **React & Javascript**<br><br>
 - 📫 How to reach me **momue.dev@gmail.com**
 
