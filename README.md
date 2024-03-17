@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on:  a secret portfolio project.<br>🌱 I’m currently learning: Golang<br>💬 Ask me about: Javascript,  React & Next.js<br>
+🔭 I’m currently working on:  a compiler in Go.<br>🌱 I’m currently learning: Golang<br>💬 Ask me about: Javascript,  React & Next.js<br>
 
 
 ## 🌐 Socials:
