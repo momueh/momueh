@@ -15,9 +15,12 @@
 
 <p align="left">I'm Moritz from Germany<br><br>- 🔭 I’m working as Software Engineer<br>- 📚 I'm currently learning C++<br>- ⚡ In my free time I enjoy traveling & nature</p>
 
+
+
 ###
 
 <h3 align="left">🛠 Language and tools</h3>
+
 
 ###
 
@@ -34,7 +37,8 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" height="40" alt="rust logo"  />
 </div>
-###
+
+
 
 <h3 align="left">🔥   My Stats :</h3>
 
