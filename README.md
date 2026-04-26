@@ -13,7 +13,7 @@
 
 ###
 
-<p align="left">I'm Moritz from Germany<br><br>- 🔭 I’m working as Software Engineer<br>- 📚 I'm currently learning C++<br>- ⚡ In my free time I enjoy traveling & nature</p>
+<p align="left">I'm Moritz from Germany<br><br>- 🔭 I’m working as Software Engineer<br>- 📚 I'm currently learning Rust<br>- ⚡ In my free time I enjoy traveling & nature</p>
 
 
 
